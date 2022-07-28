@@ -12,6 +12,9 @@ class DetailSurahView extends GetView<DetailSurahController> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        elevation: 0,
+      ),
       body: ListView(
         padding: EdgeInsets.all(20),
         children: [
