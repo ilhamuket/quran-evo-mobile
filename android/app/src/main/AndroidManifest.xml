@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="getx.flutterget">
    <application
-        android:label="flutterget"
+        android:label="Quran-Evo"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
