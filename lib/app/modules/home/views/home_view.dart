@@ -68,7 +68,7 @@ class HomeView extends GetView<HomeController> {
                                   width: 180,
                                   height: 180,
                                   child: Image.asset(
-                                    "assets/images/quranlogo.png",
+                                    "assets/images/logo.png",
                                     fit: BoxFit.contain,
                                   ),
                                 ),
